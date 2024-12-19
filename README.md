@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Tomasz</h1>
+<h1>Hi 👋, I'm Tomasz</h1>
 Student passionate about Linux administration and self-hosting.
 
 <h3 align="left">Languages and Tools:</h3>
