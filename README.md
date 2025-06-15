@@ -4,6 +4,6 @@ Student passionate about Linux administration and self-hosting. Also mechanical 
 <h3 align="left">Languages and Tools:</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,go,vue,postgres,docker,git,bash,linux,vim" />
+    <img src="https://skillicons.dev/icons?i=python,go,docker,ansible,terraform,bash,vim" />
   </a>
 </p>
